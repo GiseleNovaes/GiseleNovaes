@@ -1,4 +1,4 @@
-Oii! Eu sou a Gisele Novaes P Santos
+Oii! Eu sou Gisele Novaes P Santos
 
 📚Atualmente estou Estudando Análise e Desenvolvimento de Sistemas
 
