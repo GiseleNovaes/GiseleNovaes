@@ -1,6 +1,7 @@
 Oii! Eu sou Gisele Novaes P Santos
 
-📚Atualmente estou Cursando Análise e Desenvolvimento de Sistemas
+📚Atualmente estou Cursando Análise e Desenvolvimento de Sistemas, buscando
+aprimorar meus conhecimentos em desenvolvimento BackEnd e em busca de Estágio na área.
 
 ## Bem-vindo(a) ao meu Perfil Gisele Novaes P Santos😊
 
